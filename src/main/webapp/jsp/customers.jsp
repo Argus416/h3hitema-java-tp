@@ -18,7 +18,7 @@
 <body>
 
 <div class="w3-container w3-center">
-    <h1 style="text-align: center"><spring:message code="application.customers"/></h1>
+    <h1 style="text-align: center"><spring:message code="page.customers.title"/></h1>
 
     <div class="btns">
         <a class="w3-button w3-green w3-margin-bottom" href="<c:url value="/" />"><spring:message
